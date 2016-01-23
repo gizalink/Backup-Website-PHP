@@ -1,5 +1,5 @@
 # Backup-Website-PHP
-PHP Script to backup : zip and export SQL, then transfer to FTP <br/>
+PHP Script to backup : zip all file and export SQL, then transfer to FTP <br/>
 Author: http://davidwalsh.name <br/>
 Custom by: Nguyen Phuc Gia Linh <br/>
 My website: http://nguyenphucgialinh.com
